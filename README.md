@@ -1,3 +1,5 @@
+**🚨 [Rkt has been abandoned upstream.](https://github.com/rkt/rkt) Users are encouraged to migrate their workloads to a [different task driver](https://nomadproject.io/docs/drivers/).**
+
 Nomad Rkt Driver
 ==================
 
